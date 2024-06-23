@@ -3,6 +3,16 @@
 ### Project Overview
 The COVID-19 Dashboard project aims to create an interactive and comprehensive dashboard using Power BI to visualize and analyze the impact and trends of the COVID-19 pandemic globally and regionally. The dashboard will provide insights into key metrics such as infection rates, mortality rates, and recovery rates. This project will serve as a tool for policymakers, healthcare professionals, researchers, and the general public to understand and respond to the pandemic effectively.
 
+#### Home
+![image](https://github.com/Justraim/Covid-19-Project-Power-BI/assets/42674004/e5d5ad40-56b4-4496-83f4-85bc0ff01931)
+
+#### Death
+![image](https://github.com/Justraim/Covid-19-Project-Power-BI/assets/42674004/a15b2e30-01d3-4e96-993e-160cef770a89)
+
+### Recoveries
+![image](https://github.com/Justraim/Covid-19-Project-Power-BI/assets/42674004/53b72301-8615-4074-9ec7-27ce27103158)
+
+
 ### Objectives
 1. Visualize COVID-19 data trends from March 2020 to March 14, 2022.
 2. Provide regional comparisons of COVID-19 statistics.
